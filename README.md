@@ -1,1 +1,2 @@
-# Project-3
+# A Game of Tokens
+## Eric Wynn, University of Mineesota, Fintech Bootcamp
