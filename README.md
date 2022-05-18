@@ -15,6 +15,6 @@
 
 ## What seperate "play to earn" games from your typical online games by such  companies as Blizzard Entertainment (World of Warcraft) or Microsoft (Halo) is that these "play to earn" games incorporate non-fungible tokens (NFT) that allow players to create unique, one of kind, characters that they own and can develop to their unique interest; Online gaming pieces can be outfitted with special spells, tokens, armor, or weapons that are centrally unique to them and no other. The owners of these NFT characters are then able to sell, trade, exchange, or retire their characters as they see fit within the gaming ecosystem. This unique ability to exchange the character NFT's allows for the commodization of these NFT's in the same manner that corn, silver, gold, stocks or bonds are traded everyday with their respective platforms and exchanges. 
 
-##
+## 
 
 
