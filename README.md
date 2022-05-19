@@ -53,4 +53,4 @@ In addition, gaming enviroments will cannablize one another as players move from
 
 The advantage to this current economic scenario is that in game NFT's can now be purchased at discounted prices, and some steeply discoiunted. For example, NFT Axies that were selling for hunderds of dollars just last year can now be purchased for as little as $10.00 this year.
 
-## Tokenization
+## Tokenization Demonstration
