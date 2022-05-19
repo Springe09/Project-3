@@ -39,7 +39,7 @@ An enitity (individual/corporation/decentralised autnomosius dowel) with suffici
 
 In order to incentienvise such an arragenement the player could keep 70% of their earnings and the "lendor" would retain 30% to offset their investment and management costs. If a player tires of the gaming ecosystem they simply surrender their characters NFT, they keep their earnings and everyone leaves a winner. If the player decides they want to play within another gaming ecosysttem they could come back to the "lendor" and simply "check-out" another character and explore the next world and again split their respective earnings with the "lending" lending entity.
 
-##Tokenization
+
 # Machine Learning Demonstration
 The world economics are currently struggling with slowing economies, rising inflationanry preasures, a persistent pandemic, and a European theater war. All economic assets are under preasure as of this writing. Using machine learning I wanted to understand the pricing perdicitive models of four "play to earn" games and their valuation trajectory. I chose the following four games:
 1. Axie Infinty
