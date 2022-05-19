@@ -18,7 +18,7 @@
 # Table of Contents
 ## Introduction 
 ## Machine Learning Demonstration
-## Tokenizatiom Demonstration
+## Tokenization Demonstration
 ## Crowdfunding Demonstration
 ## Non-Fungible Tokens Demonstration
 
