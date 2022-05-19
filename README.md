@@ -13,6 +13,10 @@
 
 # Table of Contents
 ## Introduction 
+## Machine Learning Demonstration
+## Tokenizatiom Demonstration
+## Crowdfunding Demonstration
+## Non-Fungible Tokens Demonstration
 
 
 
