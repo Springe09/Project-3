@@ -4,10 +4,10 @@
 
 # Project Description
 ## This project is the capstone project for the University of Minnesota Fintech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. These skillsets will encompass the following:
-## Machine Learning,
-##
-##
-##
+## Machine Learning;
+## Tokenization for a gaming enviroment;
+## Crowdfunding for potential raising of funds;
+## Non-fungible token generation for use within the ecosystem.
 
 ## The end product demonstrated here, will be used as the foundation of a business proposal/plan to be acted upon. 
 
