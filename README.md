@@ -39,6 +39,7 @@ An enitity (individual/corporation/decentralised autnomosius dowel) with suffici
 
 In order to incentienvise such an arragenement the player could keep 70% of their earnings and the "lendor" would retain 30% to offset their investment and management costs. If a player tires of the gaming ecosystem they simply surrender their characters NFT, they keep their earnings and everyone leaves a winner. If the player decides they want to play within another gaming ecosysttem they could come back to the "lendor" and simply "check-out" another character and explore the next world and again split their respective earnings with the "lending" lending entity.
 
+##Tokenization
 # Machine Learning Demonstration
 The world economics are currently struggling with slowing economies, rising inflationanry preasures, a persistent pandemic, and a European theater war. All economic assets are under preasure as of this writing. Using machine learning I wanted to understand the pricing perdicitive models of four "play to earn" games and their valuation trajectory. I chose the following four games:
 1. Axie Infinty
@@ -46,7 +47,10 @@ The world economics are currently struggling with slowing economies, rising infl
 3. Gods Unchained 
 4. Pegaxy
 
-Using machine learning, I found that all four assets were below their expected valuations.  This is not surprising as all assets are exerpincing unique stressors during this period of turmoil.In addition, gaming enviroments will cannablize one another as players move from gaming ecosystem to gaming ecosystem looking for the gaming enviroment that is best suited to their unique taste (The Goldilocks Effect).
+Using machine learning, I found that all four assets were below their expected valuations. And furthermore, they each demonstrate an ongoing downward trend.  This is not surprising as all economic assets are exerpincing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and others have seen severe reductions in their valuations. 
 
-The advantage to this scenario is that in game NFT's can now be purchased at discounted prices. For example, NFT Axies that were selling for hunderds of dollars last year can now be purchased for as little as $10.00.
+In addition, gaming enviroments will cannablize one another as players move from gaming ecosystem to gaming ecosystem looking for the gaming enviroment that is best suited to their unique taste (The Goldilocks Effect). 
 
+The advantage to this current economic scenario is that in game NFT's can now be purchased at discounted prices, and some steeply discoiunted. For example, NFT Axies that were selling for hunderds of dollars just last year can now be purchased for as little as $10.00 this year.
+
+## Tokenization
