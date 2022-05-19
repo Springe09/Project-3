@@ -3,7 +3,13 @@
 ### University of Minnesota, Fintech Bootcamp
 
 # Project Description
-## This project is the capstone project for the University of Minnesota Fintech Bootcamp program. This capstone project will represent the fundamental outline of a business proposal/plan. 
+## This project is the capstone project for the University of Minnesota Fintech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. These skillsets will encompass the following:
+## Machine Learning,
+##
+##
+##
+
+## The end product demonstrated here, will be used as the foundation of a business proposal/plan to be acted upon. 
 
 # Table of Contents
 ## Introduction 
