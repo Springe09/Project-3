@@ -16,11 +16,12 @@ The end product demonstrated here, will be used as the foundation of a business 
 
 
 # Table of Contents
-1. Introduction 
-2. Machine Learning Demonstration
-3. Tokenization Demonstration
-4. Crowdfunding Demonstration
-5. Non-Fungible Tokens Demonstration
+1. History
+2. Overview (The Lend/Lease Business Model) 
+3. Machine Learning Demonstration
+4. Tokenization Demonstration
+5. Crowdfunding Demonstration
+6. Non-Fungible Tokens Demonstration
 
 
 
@@ -38,4 +39,14 @@ An enitity (individual/corporation/decentralised autnomosius dowel) with suffici
 
 In order to incentienvise such an arragenement the player could keep 70% of their earnings and the "lendor" would retain 30% to offset their investment and management costs. If a player tires of the gaming ecosystem they simply surrender their characters NFT, they keep their earnings and everyone leaves a winner. If the player decides they want to play within another gaming ecosysttem they could come back to the "lendor" and simply "check-out" another character and explore the next world and again split their respective earnings with the "lending" lending entity.
 
+# Machine Learning Demonstration
+The world economics are currently struggling with slowing economies, rising inflationanry preasures, a persistent pandemic, and a European theater war. All economic assets are under preasure as of this writing. Using machine learning I wanted to understand the pricing perdicitive models of four "play to earn" games and their valuation trajectory. I chose the following four games:
+1. Axie Infinty
+2. Decentraland
+3. Gods Unchained 
+4. Pegaxy
+
+Using machine learning, I found that all four assets were below their expected valuations.  This is not surprising as all assets are exerpincing unique stressors during this period of turmoil.In addition, gaming enviroments will cannablize one another as players move from gaming ecosystem to gaming ecosystem looking for the gaming enviroment that is best suited to their unique taste (The Goldilocks Effect).
+
+The advantage to this scenario is that in game NFT's can now be purchased at discounted prices. For example, NFT Axies that were selling for hunderds of dollars last year can now be purchased for as little as $10.00.
 
