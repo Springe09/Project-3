@@ -29,6 +29,8 @@ The release of the [Axie Infinity]() gaming ecosystem by [Sky Mavis]() introduce
 
 What separates "play to earn" games from your typical online games by such luminaire companies as [Blizzard Entertainment]() (World of Warcraft) or [Microsoft]() (Halo) is that these "play to earn" games incorporate non-fungible tokens (NFT) that allow players to not only create unique, one of kind, characters, BUT, they can then own these characters as one would own a piece of art or share of stock in a company. The creator/owner of these NFT characters/images/objects are then able to sell, trade, exchange, or retire their characters/images/objects as they see fit within their respective gaming ecosystem. This unique ability to exchange the objectified NFT's allows for the commoditization of these gaming NFT's in the same manner that individual traders exchange corn, silver, gold, stocks or bonds within their respective platforms and public exchanges. 
 
-As with all free markets, at times inflationary factors kick in and cause asset prices to rise beyond the grasp of the average consumer. This inflationary specter caused the world of Axies to become exorbitantly expensive and shut out many willing participants as they could not raise the cash to purchase the required starter set of three characters to play in the ecosystem. 
+As with all free markets, at times supply and demand factors can cause asset prices to rise beyond the grasp of the average consumer resulting in an inflationary spiral upwards. This inflationary specter caused the world of Axies to become exorbitantly expensive and shut out many willing participants as they could not raise the cash to purchase the required starter set of three characters to play in the ecosystem. And, this many players were shut out, unable to afford the opportunity to play the game. 
 
 And, here in lies the opportunity.
+
+
