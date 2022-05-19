@@ -2,6 +2,7 @@
 ## Eric Wynn 
 ### University of Minnesota, Fintech Bootcamp
 
+
 # Project Description
 ## This project is the capstone project for the University of Minnesota Fintech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. These skillsets will encompass the following:
 ## 1. Machine Learning;
@@ -9,7 +10,10 @@
 ## 3. Crowdfunding for potential raising of funds;
 ## 4. Non-fungible token generation for use within the ecosystem.
 
+
+
 ## The end product demonstrated here, will be used as the foundation of a business proposal/plan to be acted upon. 
+
 
 # Table of Contents
 ## Introduction 
