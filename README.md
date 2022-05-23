@@ -1,10 +1,10 @@
 # A Game of Tokens
-Amy Sherban, Latoya Springer and Eric Wynn 
+Amy Sherbanenko, Latoya Springer, and Eric Wynn 
 University of Minnesota, FinTech Bootcamp
 
 
 # Project Description
-This project is the capstone project for the University of Minnesota Fintech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. These skillsets demonstrated will encompass the following:
+This project is the capstone project for the University of Minnesota FinTech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. The skillsets demonstrated will encompass the following:
 1. Machine Learning.
 2. Tokenization.
 3. Crowdfunding.
