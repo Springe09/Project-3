@@ -1,5 +1,8 @@
 # A Game of Tokens
-Amy Sherbanenko, Latoya Springer, and Eric Wynn 
+Amy Sherbanenko, 
+Latoya Springer, 
+Eric Wynn 
+
 University of Minnesota, FinTech Bootcamp
 
 
