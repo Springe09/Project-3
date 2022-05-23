@@ -1,6 +1,6 @@
-# A Game of Tokens
-Amy Sherbanenko, 
-Latoya Springer, 
+# A Game of Tokens: A Business Model for Investing and Staking Non-fungible Tokens in a Gaming Enviroment
+Amy Sherbanenko 
+Latoya Springer
 Eric Wynn 
 
 University of Minnesota, FinTech Bootcamp
