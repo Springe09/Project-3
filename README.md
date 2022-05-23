@@ -12,11 +12,7 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 2. Tokenization.
 3. Crowdfunding.
 4. Non-fungible token(s).
-
-
-
-The end product demonstrated here, will be used as the foundation of a business proposal/plan to be acted upon. 
-
+ 
 
 # Table of Contents
 1. History
