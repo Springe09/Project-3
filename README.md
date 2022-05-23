@@ -1,6 +1,6 @@
 # A Game of Tokens
-Eric Wynn 
-University of Minnesota, Fintech Bootcamp
+Amy Sherban, Latoya Springer and Eric Wynn 
+University of Minnesota, FinTech Bootcamp
 
 
 # Project Description
