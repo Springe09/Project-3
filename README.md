@@ -11,9 +11,9 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 
 [0. Eric](Eric)
 
-1. [Machine Learning](Machine Learning)
-2. [Crowdfunding]
-3. [Non-fungible tokens]
+1. [Machine Learning](Machine Learning.ipynb)
+1. [Crowdfunding]
+1. [Non-fungible tokens]
  
 
 # Table of Contents
