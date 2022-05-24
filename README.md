@@ -1,6 +1,6 @@
 # A Game of Tokens: A Business Model for Investing and Staking Non-Fungible Tokens in a Gaming Enviroment
-Amy Sherbanenko, 
-Latoya Springer,
+Amy Sherbanenko 
+Latoya Springer
 Eric Wynn 
 
 University of Minnesota, FinTech Bootcamp
@@ -11,7 +11,7 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 
 [0. Eric](Eric)
 
-[1. Machine Learning.]
+1.[Machine Learning]
 2. Tokenization.
 3. Crowdfunding.
 4. Non-fungible token(s).
