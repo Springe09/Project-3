@@ -34,28 +34,27 @@ What separates "play to earn" games from your typical online, massive multiple p
 
 As with all free markets, at times supply and demand factors can cause asset prices to rise beyond the grasp of the average consumer resulting in an inflationary spiral upwards. This inflationary specter caused the world of the Axies to become exorbitantly expensive and thus many willing players were shut out as they could not raise the cash to purchase the required starter set of three characters to play. In other "play to earn" games players need to purchase better guns to shoot the attacking zombies, or better shields for their spaceships in flight but all of these gaming non-fungible tokens that offer the upgrades are expensive. And, if you are in a local economy where you are making only a few dollars a day, that magical flaming sword that costs $100.00 US Dollars and could give you the gaming edge you need, well it might as well be a million or even a billion dollars. It is just too expensive for you to purchase to play a game when those $100.00 US dollars would go a long way to feeding your family.
 
-And, here in lies the business opportunity.
+And, here-in lies the business opportunity.
 
 # The Lend-Lease Business Model
-An entity with sufficient resources could operate within the "play to earn" gaming environments acquiring assets, lands, characters, and other in-game ecosystem non-fungible tokens. Once sufficient assets are gathered this entity could act as material "lender" to players who cannot afford the upfront costs of such NFT's. Using in-game mechanics they could "lend" or "stake" the players the needed assets to play until they can acquire enough resources to play on their own. The "lendee" player's character could now be outfitted with sufficient in-game resources that they could play at an above average starting point making their play more rewarding than those who simply "boot-strap" themselves into the game ecosystem(s) starting from scratch. 
+An entity with sufficient resources could operate within the "play to earn" gaming environments acquiring assets, lands, characters, and other in-game ecosystem non-fungible tokens. The buyer of these assets could act as material "lender" to players who cannot afford the upfront costs of such gaming NFT's. Using in-game mechanics they could "lend" or "stake" the players the needed assets to play until they can acquire enough resources to play on their own. The "lendee" player's character could now be outfitted with sufficient in-game resources that they could play at an above average starting point making their game play more rewarding than those who simply "boot-strap" themselves into the game ecosystem(s) starting from scratch. 
 
-In order to incentivize such an arrangement, the player could keep 70% of their earnings and the "lender" would retain 30% to offset their investment and management costs. If a player tires of the gaming ecosystem they simply surrender the borrowed assets the same way as we would return a library book to our local library. The player keeps their earnings and any other tokens they accumulated, and everyone leaves the game a winner. If the player decides they want to play within another gaming ecosystem they could come back to the "lender" and simply "check-out" another character or other specialized tokens and explore the next world and again split their respective earnings with the "lending" lending entity.
+In order to incentivize such an arrangement, the player could keep 70% of their earnings and the "lender" would retain 30% to offset their investment and management costs. If a player tires of the gaming ecosystem they simply surrender the borrowed assets the same way as one would return a library book to their local library. The player keeps their earnings and any other tokens they accumulated, and everyone leaves the game a winner. If the player decides they want to play within another gaming ecosystem they could come back to the "lender" and simply "check-out" another character or other specialized tokens and explore the next world and again split their respective earnings with the "lending" lending entity.
 
 
 
 # Machine Learning Demonstration
-The world economics are currently struggling with slowing economies, rising inflationary pressures, a persistent pandemic, and a European theater war. All economic assets are under stress as of this writing. Using machine learning we wanted to understand the pricing predictive models of four "play to earn" games and their valuation trajectory. We chose the following four games:
+Why is Machine Learning important for this business model? As more and more "play to earn" games emerge it stands to reason that gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use perdicitive modeling to help us understand the direction of the games market share (growing or shrinking user base/interest) which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
+
+Using Machine Learning we wanted to understand the pricing predictive models of four "play to earn" games and their valuation trajectory. We chose the following four games which currently have tradeable coins on exchanges such as Coinbase or KuCoin:
 1. Axie Infinity
 2. Decentraland
 3. Gods Unchained 
 4. Pegaxy
 
-Using machine learning, we found that all four assets were below their expected valuations. And furthermore, they each demonstrate an ongoing downward trend.  This is not surprising as all economic assets are experiencing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and others have seen severe reductions in their valuations. 
+With Machine Learning, we found that all four gaming tokens were below their expected prediceted valuations. Furthermore, they each demonstrate an ongoing downward trend. This is not surprising as all economic assets are experiencing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and many others have seen severe reductions in their stock market valuations. 
 
-In addition, gaming environments will cannibalize one another as players move from gaming ecosystem to gaming ecosystem looking for the gaming environment that is best suited to their unique taste (The Goldilocks Effect). 
+In the folder labeled "Machine Learning" our the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. 
 
-The advantage to this current economic scenario is that in game NFT's can now be purchased at discounted prices, and some steeply discounted. For example, NFT Axies that were selling for hundreds of dollars just last year can now be purchased for as little as $10.00 this year.
-
-In the folder labeled "Eric" our the four CSV files for the above noted tokens.  Each was run using the Tensor Flow 
-
-## Tokenization Demonstration
+## Crowdfunding Demonstration
+All business need to have some start up capital. 
