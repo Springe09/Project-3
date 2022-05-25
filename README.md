@@ -68,12 +68,22 @@ All business need to have some start up capital. We have assembled a
 All consumer based business now employ a "rewards" program to encourage and incentivise returning customers. We would like to create non-fungible tokens that we could present to our best customers. Within these non-fungible tokens could be attached recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
 
 ## Play to Earn Games
-Here is a listing of current "play to earn" games and the opportunity within their resepctive ecosystems.
+Here is a listing of current "play to earn" games.
 
-1. [Axie Infinity]() - Players can be staked and provided a starting set of Axies 
-2. [Pegaxy] () - Players can
+1. [Axie Infinity]() 
+2. [Pegaxy] () 
 
+
+## Gaming Guilds
+Gaming Guilds are collectives of indivduals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These generally operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based protocol with rules enforced by smart contracts, which are programs stored on a blockchain that run when predetermined conditions are met. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. .
+
+1. [Yield Guild](https://yieldguild.io/)
+2. [Merit Circle Guild](https://meritcircle.io/)
+3. [Good Games Guild](https://goodgamesguild.com/)
 
 ## Additional Resources
 1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4) Video
 2. [How I Started an Axie Infinity Scholarship Program in a Week](https://momentranks.com/blog/how-i-started-an-axie-infinity-scholarship-program-in-a-week)
+3. [Play-To-Earn: A Study on Scholarship Viability] (https://www.coingecko.com/premium/publications/play-to-earn-a-study-on-scholarship-viability)
+4. [Top Play To Earn Coins by Market Capitalization])(https://www.coingecko.com/en/categories/play-to-earn)
+5. [Top Crypto Gaming Guilds In Existence – 2022](https://defi-planet.com/2022/05/top-crypto-gaming-guilds-in-existence-2022/)
