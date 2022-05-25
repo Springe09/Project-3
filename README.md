@@ -47,7 +47,7 @@ In order to incentivize such an arrangement, the player could keep 70% of their 
 Why is Machine Learning important for this business model? As more and more "play to earn" games emerge it stands to reason that gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use predictive modeling to help us understand the direction of the games market share (growing or shrinking user base/interest) which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
 
 Using Machine Learning we wanted to understand the pricing predictive models of four "play to earn" games and their valuation trajectory. We chose the following four games which currently have tradeable coins on exchanges such as Coinbase or KuCoin:
-1. [Axie Infinity}()
+1. [Axie Infinity}(https://axieinfinity.com/)
 2. [Decentraland]()
 3. [Gods Unchained]()
 4. [Pegaxy]()
