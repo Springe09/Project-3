@@ -44,17 +44,19 @@ In order to incentivize such an arrangement, the player could keep 70% of their 
 
 
 # Machine Learning Demonstration
-Why is Machine Learning important for this business model? As more and more "play to earn" games emerge it stands to reason that gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use perdicitive modeling to help us understand the direction of the games market share (growing or shrinking user base/interest) which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
+Why is Machine Learning important for this business model? As more and more "play to earn" games emerge it stands to reason that gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use predictive modeling to help us understand the direction of the games market share (growing or shrinking user base/interest) which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
 
 Using Machine Learning we wanted to understand the pricing predictive models of four "play to earn" games and their valuation trajectory. We chose the following four games which currently have tradeable coins on exchanges such as Coinbase or KuCoin:
-1. Axie Infinity
-2. Decentraland
-3. Gods Unchained 
-4. Pegaxy
+1. [Axie Infinity}()
+2. [Decentraland]()
+3. [Gods Unchained]()
+4. [Pegaxy]()
 
-With Machine Learning, we found that all four gaming tokens were below their expected prediceted valuations. Furthermore, they each demonstrate an ongoing downward trend. This is not surprising as all economic assets are experiencing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and many others have seen severe reductions in their stock market valuations. 
+With Machine Learning, we found that all four gaming tokens were below their expected predicted valuations. Furthermore, they each demonstrate an ongoing downward trend. This is not surprising as all economic assets are experiencing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and many others have seen severe reductions in their stock market valuations. 
 
-In the folder labeled "Machine Learning" our the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. 
+In the folder labeled "Machine Learning" our the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. The CSV's were derived from [Yahoo Finance]()
+
+
 
 ## Crowdfunding Demonstration
-All business need to have some start up capital. 
+All business need to have some start up capital. We have assembled a 
