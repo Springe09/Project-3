@@ -19,7 +19,7 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 
 # Table of Contents
 1. History
-2. Overview (The Lend/Lease Business Model) 
+2. Overview 
 3. Machine Learning Demonstration
 4. Tokenization Demonstration
 5. Crowdfunding Demonstration
@@ -36,9 +36,9 @@ As with all free markets, at times supply and demand factors can cause asset pri
 
 And, here-in lies the business opportunity.
 
-# The Scholarship Business Model
-Does Dick Sporting Goods create games, or, do they sell the equipment to play fun games?
-Does United Rentals build buildings, or, do they rent the equipment to build great buildings?
+# The Lending Business Model
+Does Dick Sporting Goods create Games? Or, do they sell the equipment to have fun?
+Does United Rentals build buildings? Or, do they rent the equipment to contractors?
 
 An entity with sufficient resources could operate within the "play to earn" gaming environments acquiring assets, lands, characters, and other in-game ecosystem non-fungible tokens. The buyer of these assets could act as a material goods "lender" [Scholarships](https://medium.com/yield-guild-games/yield-guild-explains-play-to-earn-and-scholarships-bb1e097c2a61)to players who cannot afford the upfront costs of such gaming NFT's. Using in-game mechanics the "Lender" could lend or stake the players the needed assets to play until they can acquire enough resources to play on their own. The "lendee" player's character could now be outfitted with sufficient in-game resources that they could play at an above average starting point making their game play more rewarding than those who simply "boot-strap" themselves into the game ecosystem(s) starting from scratch. 
 
@@ -47,7 +47,9 @@ In order to incentivize such an arrangement, the player (as an example) could ke
 
 
 # Machine Learning Demonstration
-Why is Machine Learning important for this business model? As more and more "play to earn" games emerge it stands to reason that gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use predictive modeling to help us understand the direction of the games market share (growing or shrinking user base/interest) which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
+Why is Machine Learning important for this business model? 
+
+As more and more "play to earn" games emerge it stands to reason that gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use predictive modeling to help us understand the direction of the games market share (growing or shrinking user base/interest) which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
 
 Using Machine Learning we wanted to understand the pricing predictive models of four "play to earn" games and their valuation trajectory. We chose the following four games which currently have tradeable coins on exchanges such as Coinbase or KuCoin:
 1. [Axie Infinity](https://axieinfinity.com/)
@@ -62,7 +64,15 @@ In the folder labeled "Machine Learning" our the four CSV files for the above no
 
 
 ## Crowdfunding Demonstration
-All business need to have some start up capital. We have assembled a 
+Why is crowdfunding important?
+
+All business need to raise funding at some point. Once a founders(s) personal investment has been used up additinal sources of funding are needed till such time that the business model is able to sufficiently fund itself and supply a steady stream of capital. Crowdfunding is a viable fund-raising strategy as it allows for the company to present their business model to a community of potential investors who can then "stress test" the business concept and provide immediate feedback to the founding team: Is the concept investable? Are their business concerns? Can you turn investors in customers?
+
+WIth that in mind, we have developed a token that is mintable and able to be crowdsourced. 
+
+In the folder labeled "Crowdfunding" you will find our program for this token to be crowdfunding. 
+
+
 
 ## Non-Fungible Token Demonstration
 All consumer based business now employ a "rewards" program to encourage and incentivise returning customers. We would like to create non-fungible tokens that we could present to our best customers. Within these non-fungible tokens could be attached recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
