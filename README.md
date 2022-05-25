@@ -12,7 +12,7 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 
 [0. Eric](Eric)
 
-1. [Machine Learning](https://github.com/Ericwynnus/Project-3/commit/07760eaf01b39c6f99cefcbbfb7131bed88c6ad0)](https://github.com/Ericwynnus/Project-3/tree/main/Machine%20Learning)
+[1. Machine Learning](https://github.com/Ericwynnus/Project-3/commit/07760eaf01b39c6f99cefcbbfb7131bed88c6ad0)](https://github.com/Ericwynnus/Project-3/tree/main/Machine%20Learning)
 1. [Crowdfunding]
 1. [Non-fungible tokens]
  
