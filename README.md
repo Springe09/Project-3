@@ -82,10 +82,7 @@ All consumer based business now employ a "rewards" program to encourage and ince
 In the folder labeled "Non-Fungible Tokens you will find our code for five non-funigble tokens.
 
 ## Play to Earn Games
-Here is a listing of current "play to earn" games.
-
-1. [Axie Infinity]() 
-2. [Pegaxy] () 
+This field is exploding as more and more projects seek to emulate the success of Axie Infinity and Decentraland. A current list along with the project capitilizations can be found at this link, [Coin Gecko](https://www.coingecko.com/en/categories/play-to-earn)
 
 
 ## Gaming Guilds
