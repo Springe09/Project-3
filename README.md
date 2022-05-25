@@ -75,7 +75,11 @@ In the folder labeled "Crowdfunding" you will find our program for this token to
 
 
 ## Non-Fungible Token Demonstration
-All consumer based business now employ a "rewards" program to encourage and incentivise returning customers. We would like to create non-fungible tokens that we could present to our best customers. Within these non-fungible tokens could be attached recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
+Why create our own non-fungible tokens?
+
+All consumer based business now employ a "rewards" program to encourage and incentivise returning customers. We would like to our own create non-fungible tokens that we could present to our best customers as a reward system. Within these non-fungible tokens we could attach recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
+
+In the folder labeled "Non-Fungible Tokens you will find our code for five non-funigble tokens.
 
 ## Play to Earn Games
 Here is a listing of current "play to earn" games.
@@ -92,7 +96,7 @@ Gaming Guilds are collectives of indivduals who have pulled their resources to s
 3. [Good Games Guild](https://goodgamesguild.com/)
 
 ## Additional Resources
-1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4) Video
+1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4) 
 2. [How I Started an Axie Infinity Scholarship Program in a Week](https://momentranks.com/blog/how-i-started-an-axie-infinity-scholarship-program-in-a-week)
 3. [Play-To-Earn: A Study on Scholarship Viability](https://www.coingecko.com/premium/publications/play-to-earn-a-study-on-scholarship-viability)
 4. [Top Play To Earn Coins by Market Capitalization](https://www.coingecko.com/en/categories/play-to-earn)
