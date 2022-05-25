@@ -94,6 +94,6 @@ Gaming Guilds are collectives of indivduals who have pulled their resources to s
 ## Additional Resources
 1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4) Video
 2. [How I Started an Axie Infinity Scholarship Program in a Week](https://momentranks.com/blog/how-i-started-an-axie-infinity-scholarship-program-in-a-week)
-3. [Play-To-Earn: A Study on Scholarship Viability] (https://www.coingecko.com/premium/publications/play-to-earn-a-study-on-scholarship-viability)
+3. [Play-To-Earn: A Study on Scholarship Viability](https://www.coingecko.com/premium/publications/play-to-earn-a-study-on-scholarship-viability)
 4. [Top Play To Earn Coins by Market Capitalization](https://www.coingecko.com/en/categories/play-to-earn)
 5. [Top Crypto Gaming Guilds In Existence – 2022](https://defi-planet.com/2022/05/top-crypto-gaming-guilds-in-existence-2022/)
