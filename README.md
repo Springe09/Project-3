@@ -32,11 +32,11 @@ The release of the [Axie Infinity]() gaming ecosystem by [Sky Mavis]() introduce
 
 What separates "play to earn" games from your typical online, massive multiple player online games by such luminaire companies as [Blizzard Entertainment]() (World of Warcraft) or [Microsoft]() (Halo) is that these "play to earn" games incorporate non-fungible tokens (NFT) that allow players to not only create unique, one of kind, characters, BUT, they can then own these characters as one would own a piece of art or share of stock in a company. The creator/owner of these NFT characters/images/objects are then able to sell, trade, exchange, or retire their characters/images/objects as they see fit within their respective gaming ecosystem. This unique ability to exchange these objectified NFT's allows for the commoditization of these gaming NFT's in the same manner that individual traders exchange corn, silver, gold, stocks or bonds within their respective platforms and public exchanges such as the New York Stock Exchange or the Chicago Board of Trade. 
 
-As with all free markets, at times supply and demand factors can cause asset prices to rise beyond the grasp of the average consumer resulting in an inflationary spiral upwards. This inflationary specter caused the world of the Axies to become exorbitantly expensive and thus many willing players were shut out as they could not raise the cash to purchase the required starter set of three characters to play. In other "play to earn" games players need to purchase better guns to shoot the attacking zombies, or better shields for their spaceships in flight but all of these gaming non-fungible tokens that offer the upgrades are expensive. And, if you are in a local economy where you are making only a few dollars a day, that magical flaming sword that costs $100.00 US Dollars and could give you the gaming edge you need, well it might as well be a million or even a billion dollars. It is just too expensive for you to purchase to play a game when those $100.00 US dollars would go a long way to feeding your family.
+As with all free markets, at times supply and demand factors can cause asset prices to rise beyond the grasp of the average consumer resulting in an inflationary spiral upwards. This inflationary specter caused the world of the Axies to become exorbitantly expensive (reaching a peak of $1,500.00 for a starter set) and thus many willing players were shut out as they could not raise the cash to purchase the required starter set of three characters to play. In other "play to earn" games players need to purchase better guns to shoot the attacking zombies, or better shields for their spaceships in flight but all of these gaming non-fungible tokens that offer the upgrades are expensive. And, if you are in a local economy where you are making only a few dollars a day, that magical flaming sword that costs $100.00 US dollars and could give you the gaming edge you need, well it might as well be a million or even a billion dollars. It is just too expensive for you to purchase to play a game when those $100.00 US dollars would go a long way to feeding your family.
 
 And, here-in lies the business opportunity.
 
-# The Lend-Lease Business Model
+# The Scholarship Business Model
 Does Dick Sporting Goods create games, or, do they sell the equipment to play fun games?
 Does United Rentals build buildings, or, do they rent the equipment to build great buildings?
 
@@ -75,5 +75,5 @@ Here is a listing of current "play to earn" games and the opportunity within the
 
 
 ## Additional Resources
-1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4)
+1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4) Video
 2. [How I Started an Axie Infinity Scholarship Program in a Week](https://momentranks.com/blog/how-i-started-an-axie-infinity-scholarship-program-in-a-week)
