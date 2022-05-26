@@ -64,6 +64,12 @@ With Machine Learning, we found that all four gaming tokens are below their expe
 
 In the folder labeled "Machine Learning" are the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. The CSV's were derived from [Yahoo Finance](https://finance.yahoo.com/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKXROKVwGzTyekoPeZxp1NhMZQ_30RSAq3n6_Y4Gz9o4Wbz3bltWbwnWi5qacicHVUt-7_YeEiIqUgZ_36eqfm3t1EAYvReYedHm_KwNm9beBlhFgza6y06oDb7feC9RC2bx22IhbJIUMyTIkiLi4saqO2ASbbe7UbPspOYuzeL8)
 
+## Graphs
+1. Pricing model of Axie INfinity
+2. Pricing model of Decentraland
+3. Pricing model of Gods Unchained
+4. Pricing model of Pegaxy
+5. Downward trend of assets combined.
 
 ## Crowdfunding Demonstration
 Why is crowdfunding important?
