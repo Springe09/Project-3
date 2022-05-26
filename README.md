@@ -11,8 +11,8 @@ University of Minnesota, FinTech Bootcamp
 This project is the capstone project for the University of Minnesota FinTech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. The skillsets demonstrated will encompass the following:
 
 [0. Eric](Eric)
-1. [Machine Learning](Machine Learning)
-2. [Crowdfunding]
+1. [Machine Learning](machine learning)
+2. [Crowdfundingm
 3. [Non-fungible tokens]
  
 
