@@ -25,7 +25,6 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 6. Non-Fungible Tokens Demonstration
 
 
-
 # History 
 The release of the [Axie Infinity](https://axieinfinity.com/) gaming ecosystem by [Sky Mavis](https://www.skymavis.com/) introduced the world to the concept of playing games while earning a income in the process. A concept now known as "play to earn". To gamers around the world, this was their Holy Grail moment. The opportunity to play a game(s) while getting paid to do such; and they flocked to the world of the Axies by the millions. 
 
@@ -39,6 +38,7 @@ As with all free markets, at times supply and demand factors can cause asset pri
 
 And, here-in lies the business opportunity.
 
+
 # The Business Model
 Does Dick Sporting Goods create Games? Or, do they sell the equipment to have fun?
 
@@ -46,8 +46,7 @@ Does United Rentals build buildings? Or, do they rent the equipment to contracto
 
 A business could operate within the "play to earn" gaming environments acquiring assets, lands, characters, and other in-game non-fungible tokens. The business could then act as a material goods "Lender" to players who cannot afford the upfront costs of such gaming NFT's. The "Lendee" player's character could now be outfitted with sufficient in-game resources that they could play at an above average starting point making their game play more rewarding than those who simply "boot-strap" themselves into the game ecosystem(s) starting from scratch. 
 
-In order to incentivize such an arrangement, the lender/lendee (as an example) could split the in-game earnings 30/70. Thirty percent going to the "lender” and seventy percent going to the "lendee." If a player tires of the gaming ecosystem they simply surrender the borrowed assets the same way as one would return a library book to their local library. The player keeps their seventy percent of the earnings and any other tokens they accumulated, and everyone leaves the game a winner. If the player decides they want to play within another gaming ecosystem they could come back to the "Lender" and simply "check-out" another character or other specialized tokens and explore the next world and again split their respective earnings with the "lending" entity.
-
+In order to incentivize such an arrangement, the Lender/Lendee (as an example) could split the in-game earnings 30/70. Thirty percent going to the "Lender” and seventy percent going to the "Lendee." If a player tires of the gaming ecosystem they simply surrender the borrowed assets the same way as one would return a library book to their local library. The player keeps their seventy percent of the earnings and any other tokens they accumulated, and everyone leaves the game a winner. If the player decides they want to play within another gaming ecosystem they could come back to the "Lender" and simply "check-out" another character or other specialized tokens and explore the next "play to earn" world and again split their respective earnings with the "Lending" entity.
 
 
 # Machine Learning Demonstration
@@ -66,8 +65,6 @@ With Machine Learning, we found that all four gaming tokens are below their expe
 In the folder labeled "Machine Learning" are the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. The CSV's were derived from [Yahoo Finance](https://finance.yahoo.com/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKXROKVwGzTyekoPeZxp1NhMZQ_30RSAq3n6_Y4Gz9o4Wbz3bltWbwnWi5qacicHVUt-7_YeEiIqUgZ_36eqfm3t1EAYvReYedHm_KwNm9beBlhFgza6y06oDb7feC9RC2bx22IhbJIUMyTIkiLi4saqO2ASbbe7UbPspOYuzeL8)
 
 
-
-
 ## Crowdfunding Demonstration
 Why is crowdfunding important?
 
@@ -76,7 +73,6 @@ All business need to raise funding at some point. Once a founders(s) personal in
 WIth that in mind, we have developed a token that is mintable and able to be crowdsourced. 
 
 In the folder labeled "Crowdfunding" you will find our program for this token to be crowdfunding. 
-
 
 
 ## Non-Fungible Token Demonstration
