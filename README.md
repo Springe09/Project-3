@@ -65,10 +65,10 @@ With Machine Learning, we found that all four gaming tokens are below their expe
 In the folder labeled "Machine Learning" are the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. The CSV's were derived from [Yahoo Finance](https://finance.yahoo.com/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKXROKVwGzTyekoPeZxp1NhMZQ_30RSAq3n6_Y4Gz9o4Wbz3bltWbwnWi5qacicHVUt-7_YeEiIqUgZ_36eqfm3t1EAYvReYedHm_KwNm9beBlhFgza6y06oDb7feC9RC2bx22IhbJIUMyTIkiLi4saqO2ASbbe7UbPspOYuzeL8)
 
 ## Graphs
-1. Pricing model of Axie INfinity
-2. Pricing model of Decentraland
-3. Pricing model of Gods Unchained
-4. Pricing model of Pegaxy
+1. Pricing model of Axie Infinity.
+2. Pricing model of Decentraland.
+3. Pricing model of Gods Unchained.
+4. Pricing model of Pegaxy.
 5. Downward trend of assets combined.
 
 ## Crowdfunding Demonstration
@@ -80,13 +80,19 @@ WIth that in mind, we have developed a token that is mintable and able to be cro
 
 In the folder labeled "Crowdfunding" you will find our program for this token to be crowdfunding. 
 
+## Sample Crowdfunding
 
-## Non-Fungible Token Demonstration
+# Non-Fungible Token Demonstration
 Why create our own non-fungible tokens?
 
-All consumer based business now employ a "rewards" program to encourage and incentivise returning customers. We would like to our own create non-fungible tokens that we could present to our best customers as a reward system. Within these non-fungible tokens we could attach recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
+All consumer based business now employ a "rewards" program to encourage and incentivise customers to return. We would like create our own non-fungible tokens that we could present to our customers as a reward system. Within these non-fungible tokens we could attach recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
 
 In the folder labeled "Non-Fungible Tokens you will find our code for five non-funigble tokens.
+
+## Sample Non-Fungible Tokens
+1.
+2.
+3.
 
 ## Play to Earn Games
 This field is exploding as more and more projects seek to emulate the success of Axie Infinity and Decentraland. A current list along with the project capitilizations can be found at this link, [Coin Gecko](https://www.coingecko.com/en/categories/play-to-earn)
