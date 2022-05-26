@@ -28,7 +28,7 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 
 
 # History 
-The release of the [Axie Infinity]() gaming ecosystem by [Sky Mavis]() introduced the world to the concept of playing games while earning a income in the process, now known as "play to earn". To gamers around the world, this was their Holy Grail. The opportunity to play a game(s) while getting paid to do such; and they flocked to the world of the Axies by the millions. The success of this game and its online ecosystem has not been lost on other gaming developers. Now multiple "play to earn" games have been released while many others are in development. You want to be a God and rule the world, now you can [Gods Unchained](). You now you want to be a medieval King or Queen and lead your armies against other kingdoms, now you can [CityStates: Medieval](). Get dropped into a zombie filled world and have to shoot your way to freedom [Zombie Rising]()? Explore outer space, and see strange new worlds [Alien Worlds](). There is a game for that.
+The release of the [Axie Infinity](https://axieinfinity.com/) gaming ecosystem by [Sky Mavis](https://www.skymavis.com/) introduced the world to the concept of playing games while earning a income in the process, now known as "play to earn". To gamers around the world, this was their Holy Grail. The opportunity to play a game(s) while getting paid to do such; and they flocked to the world of the Axies by the millions. The success of this game and its online ecosystem has not been lost on other gaming developers. Now multiple "play to earn" games have been released while many others are in development. You want to be a God and rule the world, now you can [Gods Unchained](). You now you want to be a medieval King or Queen and lead your armies against other kingdoms, now you can [CityStates: Medieval](https://citystatesm.com/). Get dropped into a zombie filled world and have to shoot your way to freedom [Zombie Rising]()? Explore outer space, and see strange new worlds [Alien Worlds](https://alienworlds.io/). There is a game for that.
 
 What separates "play to earn" games from your typical online, massive multiple player online games by such luminaire companies as [Blizzard Entertainment]() (World of Warcraft) or [Microsoft]() (Halo) is that these "play to earn" games incorporate non-fungible tokens (NFT) that allow players to not only create unique, one of kind, characters, BUT, they can then own these characters as one would own a piece of art or share of stock in a company. The creator/owner of these NFT characters/images/objects are then able to sell, trade, exchange, or retire their characters/images/objects as they see fit within their respective gaming ecosystem. This unique ability to exchange these objectified NFT's allows for the commoditization of these gaming NFT's in the same manner that individual traders exchange corn, silver, gold, stocks or bonds within their respective platforms and public exchanges such as the New York Stock Exchange or the Chicago Board of Trade. 
 
@@ -53,13 +53,13 @@ As more and more "play to earn" games emerge it stands to reason that gamers wil
 
 Using Machine Learning we wanted to understand the pricing predictive models of four "play to earn" games yhat are publicly traded. We chose the following four games which are currently trading on exchanges such as Coinbase or KuCoin:
 1. [Axie Infinity](https://axieinfinity.com/)
-2. [Decentraland]()
-3. [Gods Unchained]()
-4. [Pegaxy]()
+2. [Decentraland](https://decentraland.org/)
+3. [Gods Unchained](https://godsunchained.com/)
+4. [Pegaxy](https://pegaxy.io/)
 
 With Machine Learning, we found that all four gaming tokens were below their expected predicted valuations. Furthermore, they each demonstrate an ongoing downward trend. This is not surprising as all economic assets are experiencing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and many others have seen severe reductions in their stock market valuations. 
 
-In the folder labeled "Machine Learning" our the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. The CSV's were derived from [Yahoo Finance]()
+In the folder labeled "Machine Learning" our the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. The CSV's were derived from [Yahoo Finance](https://finance.yahoo.com/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKXROKVwGzTyekoPeZxp1NhMZQ_30RSAq3n6_Y4Gz9o4Wbz3bltWbwnWi5qacicHVUt-7_YeEiIqUgZ_36eqfm3t1EAYvReYedHm_KwNm9beBlhFgza6y06oDb7feC9RC2bx22IhbJIUMyTIkiLi4saqO2ASbbe7UbPspOYuzeL8)
 
 
 
