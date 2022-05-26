@@ -71,7 +71,8 @@ In the folder labeled "Machine Learning" are the four CSV files for the above no
 4. Pricing model of Pegaxy.
 5. Downward trend of assets combined.
 
-## Crowdfunding Demonstration
+
+# Crowdfunding Demonstration
 Why is crowdfunding important?
 
 All business need to raise funding at some point. Once a founders(s) personal investment has been used up additinal sources of funding are needed till such time that the business model is able to sufficiently fund itself and supply a steady stream of capital. Crowdfunding is a viable fund-raising strategy as it allows for the company to present their business model to a community of potential investors who can then "stress test" the business concept and provide immediate feedback to the founding team: Is the concept investable? Are their business concerns? Can you turn investors in customers?
@@ -94,18 +95,18 @@ In the folder labeled "Non-Fungible Tokens you will find our code for five non-f
 2.
 3.
 
-## Play to Earn Games
+# Play to Earn Games
 This field is exploding as more and more projects seek to emulate the success of Axie Infinity and Decentraland. A current list along with the project capitilizations can be found at this link, [Coin Gecko](https://www.coingecko.com/en/categories/play-to-earn)
 
 
-## Gaming Guilds
+# Gaming Guilds
 Gaming Guilds are collectives of indivduals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These generally operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based protocol with rules enforced by smart contracts, which are programs stored on a blockchain that run when predetermined conditions are met. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. .
 
 1. [Yield Guild](https://yieldguild.io/)
 2. [Merit Circle Guild](https://meritcircle.io/)
 3. [Good Games Guild](https://goodgamesguild.com/)
 
-## Additional Resources
+# Additional Resources
 1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4) 
 2. [How I Started an Axie Infinity Scholarship Program in a Week](https://momentranks.com/blog/how-i-started-an-axie-infinity-scholarship-program-in-a-week)
 3. [Play-To-Earn: A Study on Scholarship Viability](https://www.coingecko.com/premium/publications/play-to-earn-a-study-on-scholarship-viability)
