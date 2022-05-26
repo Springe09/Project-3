@@ -40,9 +40,9 @@ And, here-in lies the business opportunity.
 
 
 # The Business Model
-Does Dick Sporting Goods create Games? Or, do they sell the equipment to have fun?
+Does Dick Sporting Goods create games? Or, do they sell the equipment to you to have fun playing a game?
 
-Does United Rentals build buildings? Or, do they rent the equipment to contractors?
+Does United Rentals build buildings? Or, do they rent the equipment to contractors to build great buildings?
 
 A business could operate within the "play to earn" gaming environments acquiring assets, lands, characters, and other in-game non-fungible tokens. The business could then act as a material goods "Lender" to players who cannot afford the upfront costs of such gaming NFT's. The "Lendee" player's character could now be outfitted with sufficient in-game resources that they could play at an above average starting point making their game play more rewarding than those who simply "boot-strap" themselves into the game ecosystem(s) starting from scratch. 
 
