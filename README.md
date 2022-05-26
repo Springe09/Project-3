@@ -1,4 +1,4 @@
-# A Game of Tokens: A Business Model for Investing and Staking Non-Fungible Tokens in a Gaming Enviroment.
+# A Game of Tokens: A Business Model for Investing In and Staking Non-Fungible Tokens in a Gaming Enviroment.
 
 Amy Sherbanenko, 
 Latoya Springer,
