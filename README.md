@@ -75,13 +75,14 @@ In the folder labeled "Machine Learning" are the four CSV files for the above no
 # Crowdfunding Demonstration
 Why is crowdfunding important?
 
-All business need to raise funding at some point. Once a founders(s) personal investment has been used up additinal sources of funding are needed till such time that the business model is able to sufficiently fund itself and supply a steady stream of capital. Crowdfunding is a viable fund-raising strategy as it allows for the company to present their business model to a community of potential investors who can then "stress test" the business concept and provide immediate feedback to the founding team: Is the concept investable? Are their business concerns? Can you turn investors in customers?
+All business need to raise funding at some point. Once a founders(s) personal investment has been used up additional sources of funding are needed till such time that the business model is able to sufficiently fund itself and supply a steady stream of capital. Crowdfunding is a viable fund-raising strategy as it allows for the company to present their business model to a community of potential investors who can then "stress test" the business concept and provide immediate feedback to the founding team: Is the concept investable? What is public sentiment about the business model? Would investors turn into customers?
 
 WIth that in mind, we have developed a token that is mintable and able to be crowdsourced. 
 
 In the folder labeled "Crowdfunding" you will find our program for this token to be crowdfunding. 
 
 ## Sample Crowdfunding
+
 
 # Non-Fungible Token Demonstration
 Why create our own non-fungible tokens?
