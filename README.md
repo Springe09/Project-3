@@ -20,7 +20,7 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 1. History
 2. Overview 
 3. Machine Learning Demonstration
-4. New Technology
+4. New Technology Demonstration
 5. Tokenization Demonstration
 6. Crowdfunding Demonstration
 7. Non-Fungible Tokens Demonstration
