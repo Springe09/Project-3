@@ -20,9 +20,10 @@ This project is the capstone project for the University of Minnesota FinTech Boo
 1. History
 2. Overview 
 3. Machine Learning Demonstration
-4. Tokenization Demonstration
-5. Crowdfunding Demonstration
-6. Non-Fungible Tokens Demonstration
+4. New Technology
+5. Tokenization Demonstration
+6. Crowdfunding Demonstration
+7. Non-Fungible Tokens Demonstration
 
 
 # History 
@@ -71,6 +72,7 @@ In the folder labeled "Machine Learning" are the four CSV files for the above no
 4. Pricing model of Pegaxy.
 5. Downward trend of assets combined.
 
+# Recommendation Engine (New Technology)
 
 # Crowdfunding Demonstration
 Why is crowdfunding important?
