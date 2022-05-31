@@ -77,7 +77,7 @@ What are Recommendation Engines?
 
 We have all seen recommendation engines at work; shop on Amazon, watch movies on Netflix, surf the web much? Recommendation Engines are software that take the data that you input into website and return a recommendation based on your interests. The concept is easy; it is vendor upselling in an effort to get you too spend more before you leave there website.
 
-We have added a recommendation engine to interepert consumer imports and derive a recommendation export.
+We have added a recommendation engine to interepert consumer imports and derive a recommendation export.The KNN Algorithim (K-Nearest Neighbor) is used for classification and looks to assigns new data based on on how close or similiar the data is to the points in the training data. 
 
 # Crowdfunding Demonstration
 Why is crowdfunding important?
