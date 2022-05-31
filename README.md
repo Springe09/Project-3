@@ -11,9 +11,10 @@ University of Minnesota, FinTech Bootcamp
 This project is the capstone project for the University of Minnesota FinTech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. The skillsets demonstrated will encompass the following:
 
 [0. Eric](Eric)
-1. [Machine Learning](machine learning)
-2. [Crowdfundingm
-3. [Non-fungible tokens]
+1. Machine Learning 
+2. Crowdfunding
+3. Non-fungible tokens
+4. New Technology
  
 
 # Table of Contents
@@ -73,6 +74,11 @@ In the folder labeled "Machine Learning" are the four CSV files for the above no
 5. Downward trend of assets combined.
 
 # Recommendation Engine (New Technology)
+What are Recommendation Engines?
+
+We have all seen recommendation engines at work; shop on Amazon, watch movies on Netflix, surf the web much? Recommendation Engines are software that take the data that you input into website and return a recommendation based on your interests. The concept is easy; it is vendor upselling in an effort to get you too spend more before you leave there website.
+
+We have added a recommendation engine to interepert consumer imports and derive a recommendation export.
 
 # Crowdfunding Demonstration
 Why is crowdfunding important?
