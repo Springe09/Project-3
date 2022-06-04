@@ -10,7 +10,7 @@ University of Minnesota, FinTech Bootcamp
 # Project Description
 This project is the capstone project for the University of Minnesota FinTech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. The skillsets demonstrated will encompass the following:
 
-1. [Machine Learning Demonstration](https://github.com/Ericwynnus/Project-3/tree/main/Machine%20Learning)) 
+1. Machine Learning Demonstration 
 2. Crowdfunding
 3. Non-fungible tokens
 4. New Technology
