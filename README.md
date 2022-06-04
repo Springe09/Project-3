@@ -77,7 +77,9 @@ What are Recommendation Engines?
 
 We have all seen recommendation engines at work; shop on Amazon, watch movies on Netflix, surf the web much? Recommendation Engines are software that take the data that you input into website and return a recommendation based on your interests. The concept is easy; it is vendor upselling in an effort to get you too spend more before you leave there website.
 
-We have added a recommendation engine to interepert consumer imports and derive a recommendation export.The KNN Algorithim (K-Nearest Neighbor) is used for classification and looks to assigns new data based on on how close or similiar the data is to the points in the training data. 
+For example, you are building an adventure character in the world of [Cryptoblades](Cryptoblades.io) and you need a magical sword. You input that you need to borrow a +3 broadsword. Our Recomendation engine sees that and also recommends from our inventory of good, a magical bow and arrow, some mystical battle armor and maybe a enchanted helmet to finish outfitting your character. As these items are "borrowed" you now have a character more advanced than when you first started with building your character, and now better able to handle the upcoming quest to kll the infamous red dragon. You rewards are higher and using our 70/30 split, the business revenue is higher.
+
+We have added a recommendation engine to interepert consumer imports and derive a recommendation export.The KNN Algorithim (K-Nearest Neighbor) is used for classification and looks to assigns new data based on on how close or similiar the data is to the points in the training data. With this example  was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similiar games that the customer may want to play.
 
 # Crowdfunding Demonstration
 Why is crowdfunding important?
