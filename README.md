@@ -77,46 +77,75 @@ What are Recommendation Engines?
 
 We have all seen recommendation engines at work; shop on Amazon, watch movies on Netflix, surf the web much? Recommendation Engines are software that take the data that you input into website and return a recommendation based on your interests. The concept is easy; it is vendor upselling in an effort to get you too spend more before you leave there website.
 
-For example, you are building an adventure character in the world of [Cryptoblades](Cryptoblades.io) and you need a magical sword. You input that you need to borrow a +3 broadsword. Our recomendation engine sees that and also recommends from our inventory of good, a magical bow and arrow, some mystical battle armor and maybe a enchanted helmet to finish outfitting your character. As these items are "borrowed" you now have a character more advanced than when you first started with building your character, and now better able to handle the upcoming quest to kll the infamous red dragon. You rewards are higher and using our 70/30 split, the business revenue is higher.
+For example, if you are building an adventure character in the world of [Cryptoblades](Cryptoblades.io) and you need a magical sword. You input that you need to borrow a +3 broadsword. Our recommendation engine sees that and also recommends from our inventory of NFT goods, a magical bow and arrow, some mystical battle armor and maybe a enchanted helmet to finish outfitting your character. As these items are "borrowed" by the player, they now have a character more advanced than when they first started with building their NFT character, and are now better able to handle the upcoming quest to kill the infamous red dragon. Their rewards are higher and using our 70/30 split, the business revenue is higher.
 
-We have added a recommendation engine to interepert consumer imports and derive a recommendation export.The KNN Algorithim (K-Nearest Neighbor) is used for classification and looks to assigns new data based on on how close or similiar the data is to the points in the training data. 
+We have added a recommendation engine to interpret consumer imports and derive a recommendation export. The KNN Algorithm (K-Nearest Neighbor) is used for classification and looks to assigns new data based on how close or similar the data is to the points in the training data. 
 
-This recomendaton engine example was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similiar games that the customer may want to play.
+This recommendation engine example was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similar games that the customer may want to play.
 
-# Crowdfunding Demonstration
-Why is crowdfunding important?
 
-All business need to raise funding at some point. Once a founders(s) personal investment has been used up additional sources of funding are needed till such time that the business model is able to sufficiently fund itself and supply a steady stream of capital. Crowdfunding is a viable fund-raising strategy as it allows for the company to present their business model to a community of potential investors who can then "stress test" the business concept and provide immediate feedback to the founding team: Is the concept investable? What is public sentiment about the business model? Would investors turn into customers?
+# Token/NFT Airdrop(s) (New Technology)
+Why is token and NFT airdropping important?
 
-WIth that in mind, we have developed a token that is mintable and able to be crowdsourced. 
+All business need to develop a cohor of customers that will keep coming back over and over. Airdropping is one unique way of helping to develop brand loyalty.(Latoya to build out) 
 
-In the folder labeled "Crowdfunding" you will find our program for this token to be crowdfunding. 
+With that in mind, we have developed a Airdrop...... (Latoya to build out)
 
-## Sample Crowdfunding
+In the folder labeled "Airdrop" you will find our program for this token to be crowdfunding. (Latoya to build out)
 
+## Sample Airdropping
+Latoya to add...
 
 # Non-Fungible Token Demonstration
-Why create our own non-fungible tokens?
+Why create our own non-fungible tokens? 
 
-All consumer based business now employ a "rewards" program to encourage and incentivise customers to return. We would like create our own non-fungible tokens that we could present to our customers as a reward system. Within these non-fungible tokens we could attach recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
+Amy to add /explain etc... All consumer based business now employ a "rewards" program to encourage and incentivise customers to return. We would like create our own non-fungible tokens that we could present to our customers as a reward system. Within these non-fungible tokens we could attach recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
 
 In the folder labeled "Non-Fungible Tokens you will find our code for five non-funigble tokens.
 
 ## Sample Non-Fungible Tokens
-1.
+1. AMY to Add
 2.
 3.
 
+## In Game Mechanics
+To minimize overhead costs this business model is designed to work within the host gaming ecosystems. For example with Axie Infinity you would buy and sell NFT's within their ecosystem. You would then replicate this measure with CryptoQuest, Pegaxy and all the others. This prevents the need for external engineering costs to build and maintain software and storage hardware. The gaming systems themselves provide all of the engineering support and we just buy, build, sell and loan within their gaming ecosystem(s).
+
+## External Mechanics
+As a customer base is developed within the gaming ecosystems, the external features here can be implemented to build a customer base. This would include the NFT's, the tokenization, the airdropping and the other steps taken to build a energized and loyal customer base. 
+
 # Play to Earn Games
-This field is exploding as more and more projects seek to emulate the success of Axie Infinity and Decentraland. A current list along with the project capitilizations can be found at this link, [Coin Gecko](https://www.coingecko.com/en/categories/play-to-earn)
+This field is exploding as more and more projects seek to emulate the success of Axie Infinity and Decentraland. A current list along with the project capitilizations can be found at this link, [Coin Gecko](https://www.coingecko.com/en/categories/play-to-earn). A sample of these games includes:
+1. Axie Infinity
+2. Crypto Blades
+3. Pegaxy
+4. The Sandbox
+5. Gods Unchained
+6. Splinterlands
+7. City States:Medieval
+8. Arc8
+9. Skyweaver
+10. MegaCryptoPOlis
+11. CryptoQuest
+12. Phantom Galaxies
+13. REVV Racing
+14. Alien Worlds
+15. F1 Delta Time
+16. Cometh
+17. Blankos Block Party
+18. Soccer Manager Elite
+
+And, many others.
 
 
 # Gaming Guilds
-Gaming Guilds are collectives of indivduals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These generally operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based protocol with rules enforced by smart contracts, which are programs stored on a blockchain that run when predetermined conditions are met. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. .
+Gaming Guilds are collectives of indivduals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These Guilds operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based protocol with rules enforced by smart contracts, which are programs stored on a blockchain that run when predetermined conditions are met. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. 
 
 1. [Yield Guild](https://yieldguild.io/)
 2. [Merit Circle Guild](https://meritcircle.io/)
 3. [Good Games Guild](https://goodgamesguild.com/)
+
+This business model is based on the Guilds, but with the focus of making a profit and expanding as a publicly traded enterprise. 
 
 # Additional Resources
 1. [Play to Earn: NFT Gaming in the Philipines](https://www.youtube.com/watch?v=Yo-BrASMHU4) 
