@@ -43,11 +43,16 @@ And, here-in lies the business opportunity.
 # The Business Model
 Does Dick Sporting Goods create games? Or, do they sell the equipment to you to have fun playing a game?
 
-Does United Rentals build buildings? Or, do they rent the equipment to contractors to build great buildings?
-
 A business could operate within the "play to earn" gaming environments acquiring assets, lands, characters, and other in-game non-fungible tokens. The business could then act as a material goods "Lender" to players who cannot afford the upfront costs of such gaming NFT's. The "Lendee" player's character could now be outfitted with sufficient in-game resources that they could play at an above average starting point making their game play more rewarding than those who simply "boot-strap" themselves into the game ecosystem(s) starting from scratch. 
 
 In order to incentivize such an arrangement, the Lender/Lendee (as an example) could split the in-game earnings 30/70. Thirty percent going to the "Lender” and seventy percent going to the "Lendee." If a player tires of the gaming ecosystem they simply surrender the borrowed assets the same way as one would return a library book to their local library. The player keeps their seventy percent of the earnings and any other tokens they accumulated, and everyone leaves the game a winner. If the player decides they want to play within another gaming ecosystem they could come back to the "Lender" and simply "check-out" another character or other specialized tokens and explore the next "play to earn" world and again split their respective earnings with the "Lending" entity.
+
+## The Mechanics of the Model
+Do Librarians build libraries? Or, do they simply lend out books?
+
+With this model we do not have to program any NFT's. We simply work within the gaming ecosystem and let them do the heavy lifting of the blockchain programing, the firewall security, the NFT development, server hosting and any other of the mechanics needed to host an online ecosystem. We simply use the individual gaming ecosystem, working to develop and build the NFT's according to their programmatic gaming systems. 
+
+We can use the knowedge obtained within the Bootcamp Fintech to build out external features that would add to our business model. These are discussed here:
 
 
 # Machine Learning Demonstration
@@ -140,6 +145,8 @@ And, many others.
 
 # Gaming Guilds
 Gaming Guilds are collectives of indivduals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These Guilds operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based protocol with rules enforced by smart contracts, which are programs stored on a blockchain that run when predetermined conditions are met. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. 
+
+
 
 1. [Yield Guild](https://yieldguild.io/)
 2. [Merit Circle Guild](https://meritcircle.io/)
