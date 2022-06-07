@@ -89,7 +89,7 @@ We have added a recommendation engine to interpret consumer imports and derive a
 This recommendation engine example was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similar games that the customer may want to play. A second recommendatoin engine was developed using a Pokeman database. 
 
 # ICO (Initial Coin Offering)
-# Crowdsales and Airdrops
+Vested Crowdsale and Airdrop
 
 A cryptocurrency crowdsale is a public offering to invest in a new cryptocurrency or other digital asset, such as a non-fungible token (NFT). Cryptocurrency crowdsales can raise funds for anything related to cryptocurrency or blockchain, including development in a project or new business. Some initial coin offerings use (ICOs) crowdfunding to raise money for development. In an ICO, a blockchain-based startup mints a certain quantity of its own native digital token and offers them to early investors, normally in exchange for other cryptocurrencies such as bitcoin or ether.
 
@@ -98,9 +98,12 @@ As a type of digital crowdfunding, ICOs enable startups not only to raise funds 
 1. Decide on the Crowdsale’s Goal
 2. Establish Guidelines and Rules
 3. Promote Their Cryptocurrency to Potential Investors 
-4. Find a Platform to Offer the New Cryptocurrency 
 
-The primary reason for organizing a crypto airdrop is to promote a blockchain startup, project or service. By issuing tokens to users, the team can bootstrap its project and ensure a fair distribution of tokens among its community from day one. Moreover, recipients of these tokens are incentivized to increase awareness and help the project reach a broader audience once the token begins trading on an exchange. The more interest surrounding the token, the more likely it will rise in price.
+Vested Crowdsale
+Blockchain projects release their tokens to the general public via a crowdsale event. People who wish to support a new token participate in the crowdfund by purchasing their tokens using Ethereum or Bitcoin. At the end of the crowdfunding period, each participant receives tokens corresponding to how much they donated. But some organizations prefer to vest a certain amount of tokens.A certain amount of tokens that are held aside for some period of time for the team, partners, advisors, and others who are contributing to the development of the project. Smart contracts usually lock a certain amount of funds until contract conditions are met. For example, startups that use the blockchain technology can lock a certain amount of tokens: the team can reserve 15% of coins, for instance, which will be gradually released once a month/quarter/year during the project process for financial purposes. In general terms, the process of releasing these coins is called vesting. Vesting is usually used to show that the team is highly interested in the project, and will continue working on project development. Additionally, vesting lowers market price manipulations. 
+
+Airdrop
+Airdrops involve blockchain-based projects and developers sending out free tokens to members of their communities as part of a broader marketing initiative. The primary reason for organizing a crypto airdrop is to promote a blockchain startup, project or service. By issuing tokens to users, the team can bootstrap its project and ensure a fair distribution of tokens among its community from day one. Moreover, recipients of these tokens are incentivized to increase awareness and help the project reach a broader audience once the token begins trading on an exchange. The more interest surrounding the token, the more likely it will rise in price.
 
 ## Sample Airdropping
 Latoya to add...
@@ -166,3 +169,4 @@ This business model is based on the Guilds, but with the focus of making a profi
 3. [Play-To-Earn: A Study on Scholarship Viability](https://www.coingecko.com/premium/publications/play-to-earn-a-study-on-scholarship-viability)
 4. [Top Play To Earn Coins by Market Capitalization](https://www.coingecko.com/en/categories/play-to-earn)
 5. [Top Crypto Gaming Guilds In Existence – 2022](https://defi-planet.com/2022/05/top-crypto-gaming-guilds-in-existence-2022/)
+6. [What Is a Crypto Airdrop?](https://www.coindesk.com/learn/what-is-a-crypto-airdrop/)
