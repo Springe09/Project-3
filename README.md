@@ -11,9 +11,9 @@ University of Minnesota, FinTech Bootcamp
 This project is the capstone project for the University of Minnesota FinTech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. The skillsets demonstrated will encompass the following:
 
 1. Machine Learning Demonstration 
-2. Crowdfunding
+2. Air Drops
 3. Non-fungible tokens
-4. New Technology
+4. Recommendation Engines
  
 
 # Table of Contents
@@ -47,26 +47,26 @@ A business could operate within the "play to earn" gaming environments acquiring
 
 In order to incentivize such an arrangement, the Lender/Lendee (as an example) could split the in-game earnings 30/70. Thirty percent going to the "Lender” and seventy percent going to the "Lendee." If a player tires of the gaming ecosystem they simply surrender the borrowed assets the same way as one would return a library book to their local library. The player keeps their seventy percent of the earnings and any other tokens they accumulated, and everyone leaves the game a winner. If the player decides they want to play within another gaming ecosystem they could come back to the "Lender" and simply "check-out" another character or other specialized tokens and explore the next "play to earn" world and again split their respective earnings with the "Lending" entity.
 
-## The Mechanics of the Model
+## The "Nuts and Bolts"
 Do Librarians build libraries? Or, do they simply lend out books?
 
 With this model we do not have to program any NFT's. We simply work within the gaming ecosystem and let them do the heavy lifting of the blockchain programing, the firewall security, the NFT development, server hosting and any other of the mechanics needed to host an online ecosystem. We simply use the individual gaming ecosystem, working to develop and build the NFT's according to their programmatic gaming systems. 
 
-We can use the knowedge obtained within the Bootcamp Fintech to build out external features that would add to our business model. These are discussed here:
+We can use the knowedge obtained within the Bootcamp Fintech program to build out external features that would then add to our business to grow and support our customer base. These Fintech applications are discussed here:
 
 
 # Machine Learning Demonstration
 Why is Machine Learning important for this business model? 
 
-As more and more "play to earn" games emerge it stands to reason those gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use predictive modeling to help us understand the direction of the games market share (growing or shrinking user base/interest) which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
+As more and more "play to earn" games emerge it stands to reason those gamers will move from one ecosystem to another till they find one game(s) that best meets their playing needs. Using Machine Learning we can use predictive modeling to help us understand the direction of the games market publicly traded value which can help to indicate whether or not to buy or sell NFT assets within that gaming ecosystem. 
 
-Using Machine Learning we wanted to understand the pricing predictive models of four "play to earn" games that are publicly traded (Coinbase or KuCoin). We chose the following four games:
+Using Machine Learning we used pricing predictive models of four "play to earn" games that are publicly traded (Coinbase or KuCoin). We chose the following four games:
 1. [Axie Infinity](https://axieinfinity.com/)
 2. [Decentraland](https://decentraland.org/)
 3. [Gods Unchained](https://godsunchained.com/)
 4. [Pegaxy](https://pegaxy.io/)
 
-With Machine Learning, we found that all four gaming tokens are below their expected predicted valuations. Furthermore, they each demonstrate an ongoing downward trend, which could signal a warning. However, in our current economic environment, all assets are experiencing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and many others have seen severe reductions in their stock market valuations. 
+With Machine Learning, we found that all four gaming tokens are below their expected predicted valuations. Furthermore, they each demonstrate an ongoing downward trend, which could signal a warning. However, in our current economic environment, all financial assets are experiencing unique stressors during this period of turmoil. Even stalwart investments such as Facebook, Apple, and Target have seen severe reductions in their valuations. 
 
 In the folder labeled "Machine Learning" are the four CSV files for the above noted tokens.  Each was run using the Tensor Flow modeling. The CSV's were derived from [Yahoo Finance](https://finance.yahoo.com/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKXROKVwGzTyekoPeZxp1NhMZQ_30RSAq3n6_Y4Gz9o4Wbz3bltWbwnWi5qacicHVUt-7_YeEiIqUgZ_36eqfm3t1EAYvReYedHm_KwNm9beBlhFgza6y06oDb7feC9RC2bx22IhbJIUMyTIkiLi4saqO2ASbbe7UbPspOYuzeL8)
 
@@ -80,19 +80,19 @@ In the folder labeled "Machine Learning" are the four CSV files for the above no
 # Recommendation Engine (New Technology)
 What are Recommendation Engines?
 
-We have all seen recommendation engines at work; shop on Amazon, watch movies on Netflix, surf the web much? Recommendation Engines are software that take the data that you input into website and return a recommendation based on your interests. The concept is easy; it is vendor upselling in an effort to get you too spend more before you leave there website.
+We have all seen recommendation engines at work; shop on Amazon, watch movies on Netflix, surf the web much? Recommendation Engines are software that take the data that you input into websites and return a recommendation based on your interests. The concept is easy; it is vendor upselling in an effort to get you too spend more time or money within their ecosystem before you leave their website.
 
-For example, if you are building an adventure character in the world of [Cryptoblades](Cryptoblades.io) and you need a magical sword. You input that you need to borrow a +3 broadsword. Our recommendation engine sees that and also recommends from our inventory of NFT goods, a magical bow and arrow, some mystical battle armor and maybe a enchanted helmet to finish outfitting your character. As these items are "borrowed" by the player, they now have a character more advanced than when they first started with building their NFT character, and are now better able to handle the upcoming quest to kill the infamous red dragon. Their rewards are higher and using our 70/30 split, the business revenue is higher.
+For example, if you are building an adventure character in the world of [Cryptoblades](Cryptoblades.io) and you need a magical sword. You could input that you need to borrow a +3 broadsword into one of our databases. Our recommendation engine sees that and also recommends from our inventory of NFT goods a magical bow and arrow, some mystical battle armor and maybe even a enchanted helmet to finish outfitting your character. As these items are "borrowed" by the player to further outfit his or her NFT, they now have a character more advanced than when they first started, and are now better able to handle the upcoming quest to kill the infamous red dragon. Their rewards are higher and using our 70/30 split, the business revenue is higher.
 
 We have added a recommendation engine to interpret consumer imports and derive a recommendation export. The KNN Algorithm (K-Nearest Neighbor) is used for classification and looks to assigns new data based on how close or similar the data is to the points in the training data. 
 
-This recommendation engine example was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similar games that the customer may want to play.
+This recommendation engine example was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similar games that the customer may want to play. A second recommendatoin engine was developed using a Pokeman database. 
 
 
 # Token/NFT Airdrop(s) (New Technology)
-Why is token and NFT airdropping important?
+Why are Airdrops important?
 
-All business need to develop a cohor of customers that will keep coming back over and over. Airdropping is one unique way of helping to develop brand loyalty.(Latoya to build out) 
+All business need to develop a cohor of customers that will keep coming back over and over. Airdropping is one unique way of helping to develop brand loyalty.(Latoya to build out/expound on) 
 
 With that in mind, we have developed a Airdrop...... (Latoya to build out)
 
@@ -114,13 +114,15 @@ In the folder labeled "Non-Fungible Tokens you will find our code for five non-f
 3.
 
 ## In Game Mechanics
-To minimize overhead costs this business model is designed to work within the host gaming ecosystems. For example with Axie Infinity you would buy and sell NFT's within their ecosystem. You would then replicate this measure with CryptoQuest, Pegaxy and all the others. This prevents the need for external engineering costs to build and maintain software and storage hardware. The gaming systems themselves provide all of the engineering support and we just buy, build, sell and loan within their gaming ecosystem(s).
+To minimize overhead costs this business model is designed to work within the host gaming ecosystems. For example, with Axie Infinity you would buy and sell NFT's within their specific Axie world ecosystem. You would then replicate this measure with CryptoQuest, Pegaxy and all the others. This prevents the need for external engineering costs to build and maintain software and hardware. The gaming systems themselves provide all of the engineering support and we just buy, build, sell and loan within their gaming ecosystem(s).
 
 ## External Mechanics
-As a customer base is developed within the gaming ecosystems, the external features here can be implemented to build a customer base. This would include the NFT's, the tokenization, the airdropping and the other steps taken to build a energized and loyal customer base. 
+The external features discussed here (NFT's, airdrops, tokenization, machine learning) here can be implemented to support and energize the customer base. These mechanics could be used in the same manner that real world business (Target, Starbucks, McDonalds) reward and incentives their customers to use their apps and businesses. These measures learned in the FIntech Bootcamp are applicable in a realworld setting to generate brand excitement.    
 
 # Play to Earn Games
-This field is exploding as more and more projects seek to emulate the success of Axie Infinity and Decentraland. A current list along with the project capitilizations can be found at this link, [Coin Gecko](https://www.coingecko.com/en/categories/play-to-earn). A sample of these games includes:
+This field is exploding as more and more projects seek to emulate the success of Axie Infinity and Decentraland. A current list along with the project capitalization can be found at this link, [Coin Gecko](https://www.coingecko.com/en/categories/play-to-earn). 
+
+A sample of these games includes:
 1. Axie Infinity
 2. Crypto Blades
 3. Pegaxy
@@ -144,9 +146,9 @@ And, many others.
 
 
 # Gaming Guilds
-Gaming Guilds are collectives of indivduals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These Guilds operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based protocol with rules enforced by smart contracts, which are programs stored on a blockchain that run when predetermined conditions are met. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. 
+Gaming Guilds are collectives of individuals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These Guilds operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based organization with rules enforced by smart contracts. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. 
 
-
+Yield Guild is the most successful of these gaming guild swith revenues reported to be around $100 million USD.
 
 1. [Yield Guild](https://yieldguild.io/)
 2. [Merit Circle Guild](https://meritcircle.io/)
