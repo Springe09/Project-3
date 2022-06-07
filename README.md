@@ -88,7 +88,7 @@ We have added a recommendation engine to interpret consumer imports and derive a
 
 This recommendation engine example was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similar games that the customer may want to play. A second recommendatoin engine was developed using a Pokeman database. 
 
-## ICO (Initial Coin Offering)
+# ICO (Initial Coin Offering)
 # Crowdsales and Airdrops
 
 A cryptocurrency crowdsale is a public offering to invest in a new cryptocurrency or other digital asset, such as a non-fungible token (NFT). Cryptocurrency crowdsales can raise funds for anything related to cryptocurrency or blockchain, including development in a project or new business. Some initial coin offerings use (ICOs) crowdfunding to raise money for development. In an ICO, a blockchain-based startup mints a certain quantity of its own native digital token and offers them to early investors, normally in exchange for other cryptocurrencies such as bitcoin or ether.
