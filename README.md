@@ -100,9 +100,11 @@ As a type of digital crowdfunding, ICOs enable startups not only to raise funds 
 3. Promote Their Cryptocurrency to Potential Investors 
 
 Vested Crowdsale
+
 Blockchain projects release their tokens to the general public via a crowdsale event. People who wish to support a new token participate in the crowdfund by purchasing their tokens using Ethereum or Bitcoin. At the end of the crowdfunding period, each participant receives tokens corresponding to how much they donated. But some organizations prefer to vest a certain amount of tokens.A certain amount of tokens that are held aside for some period of time for the team, partners, advisors, and others who are contributing to the development of the project. Smart contracts usually lock a certain amount of funds until contract conditions are met. For example, startups that use the blockchain technology can lock a certain amount of tokens: the team can reserve 15% of coins, for instance, which will be gradually released once a month/quarter/year during the project process for financial purposes. In general terms, the process of releasing these coins is called vesting. Vesting is usually used to show that the team is highly interested in the project, and will continue working on project development. Additionally, vesting lowers market price manipulations. 
 
 Airdrop
+
 Airdrops involve blockchain-based projects and developers sending out free tokens to members of their communities as part of a broader marketing initiative. The primary reason for organizing a crypto airdrop is to promote a blockchain startup, project or service. By issuing tokens to users, the team can bootstrap its project and ensure a fair distribution of tokens among its community from day one. Moreover, recipients of these tokens are incentivized to increase awareness and help the project reach a broader audience once the token begins trading on an exchange. The more interest surrounding the token, the more likely it will rise in price.
 
 ## Sample Airdropping
