@@ -8,7 +8,7 @@ University of Minnesota, FinTech Bootcamp
 
 
 # Project Description
-This project is the capstone project for the University of Minnesota FinTech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. The skillsets demonstrated will encompass the following:
+This project is the capstone project for the University of Minnesota FinTech Bootcamp program. In accordance to the project requirements, the skillsets acquired within class will be demonstrated here. This knowledge will encompass the following:
 
 1. Machine Learning Demonstration 
 2. Air Drops
