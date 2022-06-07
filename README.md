@@ -41,7 +41,7 @@ And, here-in lies the business opportunity.
 
 
 # The Business Model
-Does Dick Sporting Goods create games? Or, do they sell the equipment to you to have fun playing a game?
+Does Dick Sporting Goods create games? Or, do they sell the equipment to you to have fun playing games?
 
 A business could operate within the "play to earn" gaming environments acquiring assets, lands, characters, and other in-game non-fungible tokens. The business could then act as a material goods "Lender" to players who cannot afford the upfront costs of such gaming NFT's. The "Lendee" player's character could now be outfitted with sufficient in-game resources that they could play at an above average starting point making their game play more rewarding than those who simply "boot-strap" themselves into the game ecosystem(s) starting from scratch. 
 
@@ -50,9 +50,9 @@ In order to incentivize such an arrangement, the Lender/Lendee (as an example) c
 ## The "Nuts and Bolts"
 Do Librarians build libraries? Or, do they simply lend out books?
 
-With this model we do not have to program any NFT's. We simply work within the gaming ecosystem and let them do the heavy lifting of the blockchain programing, the firewall security, the NFT development, server hosting and any other of the mechanics needed to host an online ecosystem. We simply use the individual gaming ecosystem, working to develop and build the NFT's according to their programmatic gaming systems. 
+With this model we do not have to program any NFT's. We simply work within the gaming ecosystem and let them do the heavy lifting of the blockchain programing, the firewall security, the NFT development, server hosting and any other of the mechanics needed to host an online ecosystem. We simply buy, develop and lend or sell the NFT's to the newer upcoming players. 
 
-We can use the knowedge obtained within the Bootcamp Fintech program to build out external features that would then add to our business to grow and support our customer base. These Fintech applications are discussed here:
+We can use the knowedge obtained within the Fintech Bootcamp program to build out external features that would then add to our business supporting our growth and development. These Fintech Bootcamp applications are discussed here:
 
 
 # Machine Learning Demonstration
