@@ -88,15 +88,19 @@ We have added a recommendation engine to interpret consumer imports and derive a
 
 This recommendation engine example was found during research and is modeled using a CSV file from [Steam](store.steampowered.com) that uses their customer base to and based on their inputs to present similar games that the customer may want to play. A second recommendatoin engine was developed using a Pokeman database. 
 
+## ICO (Initial Coin Offering)
+# Crowdsales and Airdrops
 
-# Token/NFT Airdrop(s) (New Technology)
-Why are Airdrops important?
+A cryptocurrency crowdsale is a public offering to invest in a new cryptocurrency or other digital asset, such as a non-fungible token (NFT). Cryptocurrency crowdsales can raise funds for anything related to cryptocurrency or blockchain, including development in a project or new business. Some initial coin offerings use (ICOs) crowdfunding to raise money for development. In an ICO, a blockchain-based startup mints a certain quantity of its own native digital token and offers them to early investors, normally in exchange for other cryptocurrencies such as bitcoin or ether.
 
-All business need to develop a cohor of customers that will keep coming back over and over. Airdropping is one unique way of helping to develop brand loyalty.(Latoya to build out/expound on) 
+As a type of digital crowdfunding, ICOs enable startups not only to raise funds without giving up equity but also to establish a community of incentivized users who want the project to succeed so their presale tokens rise in value.
 
-With that in mind, we have developed a Airdrop...... (Latoya to build out)
+1. Decide on the Crowdsale’s Goal
+2. Establish Guidelines and Rules
+3. Promote Their Cryptocurrency to Potential Investors 
+4. Find a Platform to Offer the New Cryptocurrency 
 
-In the folder labeled "Airdrop" you will find our program for this token to be crowdfunding. (Latoya to build out)
+The primary reason for organizing a crypto airdrop is to promote a blockchain startup, project or service. By issuing tokens to users, the team can bootstrap its project and ensure a fair distribution of tokens among its community from day one. Moreover, recipients of these tokens are incentivized to increase awareness and help the project reach a broader audience once the token begins trading on an exchange. The more interest surrounding the token, the more likely it will rise in price.
 
 ## Sample Airdropping
 Latoya to add...
