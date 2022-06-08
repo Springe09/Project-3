@@ -157,7 +157,7 @@ And, many others.
 # Gaming Guilds
 Gaming Guilds are collectives of individuals who have pulled their resources to stake and provide scholarships to other "play to earn" gamers. These Guilds operate as DAO's (Decentralized Autonomous Organizations). A decentralized autonomous organization, or DAO, is a blockchain-based organization with rules enforced by smart contracts. DAOs can have several purposes, but their main function is to provide an automated way to carry out governance decisions voted on by its members using a governance token. 
 
-Yield Guild is the most successful of these gaming guild swith revenues reported to be around $100 million USD.
+Yield Guild is the most successful of these gaming guild with revenues reported to be around $100 million USD.
 
 1. [Yield Guild](https://yieldguild.io/)
 2. [Merit Circle Guild](https://meritcircle.io/)
