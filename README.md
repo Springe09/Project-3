@@ -108,7 +108,7 @@ Airdrop
 Airdrops involve blockchain-based projects and developers sending out free tokens to members of their communities as part of a broader marketing initiative. The primary reason for organizing a crypto airdrop is to promote a blockchain startup, project or service. By issuing tokens to users, the team can bootstrap its project and ensure a fair distribution of tokens among its community from day one. Moreover, recipients of these tokens are incentivized to increase awareness and help the project reach a broader audience once the token begins trading on an exchange. The more interest surrounding the token, the more likely it will rise in price.
 
 ## Sample Airdropping
-[AirDrop] https://github.com/Ericwynnus/Project-3/blob/main/Images/AirDrop.PNG
+[AirDrop](https://github.com/Ericwynnus/Project-3/blob/main/Images/AirDrop.PNG)
 
 # Non-Fungible Token Demonstration
 Why create our own non-fungible tokens? 
