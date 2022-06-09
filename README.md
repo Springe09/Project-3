@@ -113,7 +113,9 @@ Why create our own non-fungible tokens?
 
 Amy to add /explain etc... All consumer based business now employ a "rewards" program to encourage and incentivise customers to return. We would like create our own non-fungible tokens that we could present to our customers as a reward system. Within these non-fungible tokens we could attach recognition for a job well done, coupon codes for NFT purchases, collectible tokens, or any other method of recognizing a customers attention and thanking them.
 
-In the folder labeled "Non-Fungible Tokens you will find our code for five non-funigble tokens.
+In the folder labeled "Non-Fungible Tokens you will find our code for three non-funigble tokens.
+
+![NFT Pic](https://github.com/Springe09/Project-3/blob/main/IMG-0168.JPEG)
 
 ## In Game Mechanics
 To minimize overhead costs this business model is designed to work within the host gaming ecosystems. For example, with Axie Infinity you would buy and sell NFT's within their specific Axie world ecosystem. You would then replicate this measure with CryptoQuest, Pegaxy and all the others. This prevents the need for external engineering costs to build and maintain software and hardware. The gaming systems themselves provide all of the engineering support and we just buy, build, sell and loan within their gaming ecosystem(s).
