@@ -115,11 +115,6 @@ Amy to add /explain etc... All consumer based business now employ a "rewards" pr
 
 In the folder labeled "Non-Fungible Tokens you will find our code for five non-funigble tokens.
 
-## Sample Non-Fungible Tokens
-1. AMY to Add
-2.
-3.
-
 ## In Game Mechanics
 To minimize overhead costs this business model is designed to work within the host gaming ecosystems. For example, with Axie Infinity you would buy and sell NFT's within their specific Axie world ecosystem. You would then replicate this measure with CryptoQuest, Pegaxy and all the others. This prevents the need for external engineering costs to build and maintain software and hardware. The gaming systems themselves provide all of the engineering support and we just buy, build, sell and loan within their gaming ecosystem(s).
 
